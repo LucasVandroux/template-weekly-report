@@ -44,7 +44,7 @@ You shall briefly specify what are your next priorities for the next reporting p
 
 Ideas, suggestions, enquiries for complementary information or requests for the allocation of additional resources.
 
-> All of those descriptions are also in the template file so don't forget to delete them before sending your report :smiley:
+> All of those descriptions are also in the template file so don't forget to delete them before sending your report! :smiley:
 
 Available Languages
 -------------------
