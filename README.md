@@ -44,16 +44,16 @@ You shall briefly specify what are your next priorities for the next reporting p
 
 Ideas, suggestions, enquiries for complementary information or requests for the allocation of additional resources.
 
-> All of those descriptions are also in the template file so don't forget to delete them before sending your report :)
+> All of those descriptions are also in the template file so don't forget to delete them before sending your report :smiley:
 
 Available Languages
 -------------------
 
 Actually there are only 3 available languages :
 
-- English
-- Chinese [Work in Progress]
-- French [Work in Progress]
+- [English](https://github.com/FLonpl6/template-weekly-report/blob/master/template-weekly-report-EN.md)
+- [Chinese](https://github.com/FLonpl6/template-weekly-report/blob/master/template-weekly-report-CN.md) [Work in Progress]
+- [French](https://github.com/FLonpl6/template-weekly-report/blob/master/template-weekly-report-FR.md) [Work in Progress]
 
 License
 -------
