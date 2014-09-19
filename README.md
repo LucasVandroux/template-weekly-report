@@ -18,6 +18,8 @@ How to use this template
 
 This template contains 6 parts. However, not all of them are relevant every weeks. Choose carefully what to keep, but do not forget that a good weekly report is concise and precise. Usually, no more than one page is required.
 
+> All of those descriptions are also in the template file so don't forget to delete them before sending your report ! :smiley:
+
 ### Urgent!
 
 Immediate feedback or action is needed.
@@ -43,8 +45,6 @@ You shall briefly specify what are your next priorities for the next reporting p
 ### Requests and proposals
 
 Ideas, suggestions, enquiries for complementary information or requests for the allocation of additional resources.
-
-> All of those descriptions are also in the template file so don't forget to delete them before sending your report! :smiley:
 
 Available Languages
 -------------------
