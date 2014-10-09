@@ -10,7 +10,7 @@ What is Markdown
 
 Markdown is a plain text formatting syntax designed to be easy-to-read and easy-to-write. It can also be easily converted to HTML.
 
-- **Don't know how to use Markdown ?** → [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- **Don't know how to use Markdown ?** → [Markdown Cheatsheet](https://guides.github.com/features/mastering-markdown/)
 - **Want to know more ?** → [Wikipedia Article](http://en.wikipedia.org/wiki/Markdown)
 
 How to use this template
