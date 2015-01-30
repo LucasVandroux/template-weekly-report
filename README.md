@@ -10,7 +10,7 @@ What is Markdown
 
 Markdown is a plain text formatting syntax designed to be easy-to-read and easy-to-write. It can also be easily converted to HTML.
 
-- **Don't know how to use Markdown ?** → [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- **Don't know how to use Markdown ?** → [Markdown Cheatsheet](https://guides.github.com/features/mastering-markdown/)
 - **Want to know more ?** → [Wikipedia Article](http://en.wikipedia.org/wiki/Markdown)
 
 How to use this template
@@ -51,9 +51,11 @@ Available Languages
 
 Actually there are only 3 available languages :
 
-- [English](https://github.com/FLonpl6/template-weekly-report/blob/master/template-weekly-report-EN.md)
-- [Chinese](https://github.com/FLonpl6/template-weekly-report/blob/master/template-weekly-report-CN.md) [Work in Progress]
-- [French](https://github.com/FLonpl6/template-weekly-report/blob/master/template-weekly-report-FR.md)
+- [English](https://github.com/FLonpl6/template-weekly-report/blob/master/template-weekly-report-EN.md) :uk:
+- [Chinese](https://github.com/FLonpl6/template-weekly-report/blob/master/template-weekly-report-CN.md) :cn: [Work in Progress]
+- [French](https://github.com/FLonpl6/template-weekly-report/blob/master/template-weekly-report-FR.md) :fr:
+
+> If you find a typo or translation error, please [open a new issue on Github](https://github.com/FLonpl6/template-weekly-report/issues/new) or drop me an email at **lucas.vandroux _at_ gmail.com**. Thanks a lot for your help :+1:
 
 License
 -------
