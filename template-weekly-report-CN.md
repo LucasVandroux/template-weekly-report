@@ -1,33 +1,33 @@
 周报
 ====
 
-**Submitted by** 姓名
+**姓名：**
 
-**Period** dd/mm/aaaa → dd/mm/aaaa
+**时间：** dd/mm/aaaa → dd/mm/aaaa
 
 紧急！
 ------
 
-> Immediate feedback or action is needed
+> 即时反馈或待办事项。
 
 提醒
 ----
 
-> Stil waiting for...
+> 等到某事完成......
 >
-> Waiting for... since...
+> 自从某个时间开始，等待做某事......
 >
-> Waiting for... until...
+> 直到某事完成后，再做别的事情......
 
 问题
 ----
 
-> You shall report here the problems encountered during the reporting period and expected to be resolved in a regular way, with no need for the additional resources. Suggest an action plan.
+> 在这里记录你这段时间遇到的问题，以及制定一个常规的解决方案。
 
 日常工作
 --------
 
-> You shall list here your own activities as well as activities of the unit that reports to you for the reporting period. Support your report with facts and numbers highlighting the achieved results.
+> 列出你这段时间所做的事情以及取得的成果。
 
 ### 周一
 
@@ -42,9 +42,9 @@
 计划下周
 --------
 
-> You shall briefly specify what are your next priorities for the next reporting period. Rank them as: important and urgent, just important, and just urgent.
+> 简述一下下周的重点项目，将它们以：重要并紧迫——重要——紧迫 这样的分类顺序来描述。
 
 要求和建议
 ----------
 
-> Ideas, suggestions, enquiries for complementary information or requests for the allocation of additional resources.
+> 建议，意见，互补信息或者额外的资源需求。
