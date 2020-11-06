@@ -51,9 +51,10 @@ Available Languages
 
 Actually there are only 3 available languages :
 
-- [English](https://github.com/FLonpl6/template-weekly-report/blob/master/template-weekly-report-EN.md) :uk:
-- [Chinese](https://github.com/FLonpl6/template-weekly-report/blob/master/template-weekly-report-CN.md) :cn: [Work in Progress]
-- [French](https://github.com/FLonpl6/template-weekly-report/blob/master/template-weekly-report-FR.md) :fr:
+- [English](https://github.com/FLonpl6/template-weekly-report/blob/master/template-weekly-report-EN.md)
+- [Chinese](https://github.com/FLonpl6/template-weekly-report/blob/master/template-weekly-report-CN.md)
+- [French](https://github.com/FLonpl6/template-weekly-report/blob/master/template-weekly-report-FR.md)
+- [Portuguese](https://github.com/FLonpl6/template-weekly-report/blob/master/template-weekly-report-PT.md)
 
 > If you find a typo or translation error, please [open a new issue on Github](https://github.com/FLonpl6/template-weekly-report/issues/new) or drop me an email at **lucas.vandroux _at_ gmail.com**. Thanks a lot for your help :+1:
 
